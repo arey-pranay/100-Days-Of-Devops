@@ -1,6 +1,5 @@
-```console
 thor@jump-host ~$ ssh steve@stapp02
-steve@stapp02's password: 
+steve@stapp02s password: 
 [steve@stapp02 ~]$ hostname
 stapp02
 [steve@stapp02 ~]$ whoami
@@ -25,4 +24,3 @@ uid=1001(ammar) gid=1001(ammar) groups=1001(ammar)
 logout
 Connection to stapp02 closed.
 thor@jump-host ~$ 
-```
